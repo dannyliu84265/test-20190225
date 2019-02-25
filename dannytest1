@@ -1,4 +1,1 @@
-if ( $a == 1 ) then
-  set b = 0
-else
-  set b = 1
+hello world!!
