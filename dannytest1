@@ -2,3 +2,7 @@ if ( $a == 1 ) then
   set b = 0
 else
   set b = 1
+
+git config -global user.name "danny"
+git config -global user.email danny.liu@wiess.biz
+git config -global user.password "apple103"
